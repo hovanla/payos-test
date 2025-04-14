@@ -1,0 +1,17 @@
+{
+    "compatibility_date": "2025-04-13",
+    "main": "src/index.js",
+    "name": "little-grass-33e2",
+    "upload_source_maps": true,
+    "d1_databases": [
+      {
+        "binding": "DB",
+        "database_id": "2c0ed0bc-66ac-4e60-b03c-03419a9f4235",
+        "database_name": "shiny-mode-7c44-d1"
+      }
+    ],
+    "observability": {
+      "enabled": true
+    },
+    "compatibility_flags": ["nodejs_compat"]
+  }
