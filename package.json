@@ -1,0 +1,15 @@
+{
+    "name": "little-grass-33e2",
+    "version": "1.0.0",
+    "description": "Cloudflare Worker for PayOS payment processing",
+    "main": "src/index.js",
+    "scripts": {
+      "dev": "wrangler dev",
+      "deploy": "wrangler publish"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "wrangler": "^4.10.0"
+    }
+  }
