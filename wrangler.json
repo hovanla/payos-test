@@ -1,7 +1,7 @@
 {
     "compatibility_date": "2025-04-13",
-    "main": "src/index.js",
-    "name": "little-grass-33e2",
+    "main": "index.js",
+    "name": "payos-test",
     "upload_source_maps": true,
     "d1_databases": [
       {
